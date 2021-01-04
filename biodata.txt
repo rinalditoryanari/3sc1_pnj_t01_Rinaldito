@@ -1,4 +1,3 @@
 NO.REG	: 1920010202
 Nama	: Rinaldito Ahmad Ryanari
 Jurusan	: Teknologi Informasi
-Angkatan  : IT
